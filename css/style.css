@@ -1,0 +1,30 @@
+body{
+    font-family: 'Raleway';
+    height: 1200px;
+    background-color: #45494e;
+    color: white;
+    width: 990px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+span{
+    color: red;
+    font-size: 40px;
+}
+
+#arrName{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+#searchValue{
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+#result{
+    font-weight: 300;
+    font-size: 20px;
+}
